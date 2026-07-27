@@ -31,6 +31,31 @@
 #     - metabolomics
 #     - data
 
+- title: "RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning"
+  authors: Zhu, Y., Gan, J., Sun, X., Sun, F., Shi, Y., Islam, M.M., Shang, C., Gao, W., Coley, C.W., Sun, Y., Wang, W.
+  journal: arXiv
+  year: 2026
+  url: https://doi.org/10.48550/arXiv.2607.14512
+  preprint: arXiv:2607.14512
+  preprint_url: https://arxiv.org/abs/2607.14512
+  preprint_site: arxiv
+  preprint_year: 2026
+  themes:
+    - predictive chemistry
+    - automation
+
+- title: "Chemical Shift Prediction Beyond the Electronic Structure Limit"
+  authors: Adams, K., Wagen, C.C., Wolford, J., Sak, M.H., Saurí, J., Feng, Z., Bhadauria, A.S., Bailey, M.A., Downs, J.S., Li, S.Z., Liu, A.I., Smidt, T., Paton, R.S., Liu, R.Y., Coley, C.W.
+  journal: ChemRxiv
+  year: 2026
+  url: https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15005989/v1
+  preprint: preprint
+  preprint_url: https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15005989/v1
+  preprint_year: 2026
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+
 - title: "GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem"
   authors: Wang, R., Wang, R., Coley, C.W., 
   journal: arXiv
@@ -47,6 +72,9 @@
 - title: "Pathway-Aware Template-Based Retrosynthesis"
   authors: Zhang, J.J., Ha, S.K., Roh, J., Tu, Z., Verma, P., Coley, C.W., Jensen, K.F.
   journal: J. Chem. Inf. Model.
+  volume: 66
+  issue: 13
+  pages: 7489-7500
   year: 2026
   url: https://doi.org/10.1021/acs.jcim.6c01458
   doi: 10.1021/acs.jcim.6c01458
@@ -69,6 +97,9 @@
 - title: "Quantifying the Failure Modes of Current One-step Retrosynthesis Models"
   authors: Tran, S.B.A., Roh, J., Coley, C.W. 
   journal: Chem. Sci.
+  volume: 17
+  issue: 28
+  pages: 14054-14063
   year: 2026
   doi: 10.1039/D6SC01323F
   url: https://doi.org/10.1039/D6SC01323F
@@ -99,6 +130,9 @@
 - title: "A machine learning-based workflow for transaminase selection"
   authors: Rago, A.J., Raghavan, P., Santiago-Capeles, L., Zhang, R., Wang, Y., Coley, C.W.
   journal: Chem. Sci.
+  volume: 17
+  issue: 25
+  pages: 12334-12345
   year: 2026
   url: https://doi.org/10.1039/D6SC00852F
   doi: 10.1039/D6SC00852F
@@ -130,9 +164,9 @@
 
 - title: "FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time"
   authors: Bohde, M., Liu, H., Manjrekar, M., Lederbauer, M., Ji, S., Wang, R., Coley, C.W.
-  journal: arXiv
+  journal: ICLR
   year: 2026
-  url: https://doi.org/10.48550/arXiv.2604.16648
+  url: https://openreview.net/forum?id=wTgx7b2D9r
   preprint: arXiv:2604.16648
   preprint_url: https://doi.org/10.48550/arXiv.2604.16648
   preprint_year: 2026
@@ -705,9 +739,9 @@
 
 - title: "ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design"
   authors: Adams, K., Abeywardane, K.A., Fromer, J., Coley, C.W.
-  journal: arXiv
-  year: 2024
-  url: https://doi.org/10.48550/arXiv.2411.04130
+  journal: ICLR
+  year: 2025
+  url: https://openreview.net/forum?id=KSLkFYHlYg
   preprint: arxiv:2411.04130
   preprint_url: https://doi.org/10.48550/arXiv.2411.04130
   preprint_year: 2024
