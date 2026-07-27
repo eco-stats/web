@@ -1,10 +1,3 @@
-- name: Babak Mahjour
-  photo: Babak_Mahjour.jpg
-  info: Postdoctoral Fellow
-  email: bmahjour@mit.edu
-  linkedin: https://www.linkedin.com/in/babak-mahjour-288923b0/
-  description: Babak completed his PhD in medicinal chemistry with Prof. Tim Cernak at the University of Michigan in 2023. He joined the Coley group soon after to continue studying chemical synthesis and lab automation, with an eye towards AI-driven translational research.
-
 - name: Jordan Liles
   photo: Jordan_Liles.jpg
   info: Postdoctoral Associate
@@ -25,14 +18,6 @@
   email: jrein@mit.edu
   linkedin: https://www.linkedin.com/in/jonas-rein-68a59a23b
   description: Jonas completed his PhD in Organic Chemistry at Cornell University with Prof. Song Lin in 2024. His postdoctoral research seeks to integrate organic chemistry with data-driven approaches to systematically identify gaps in the current landscape of organic synthesis and accelerate the discovery of innovative solutions in the laboratory.
-  
-- name: Justin Bui
-  photo: Justin_Bui.jpeg
-  info: Postdoctoral Fellow (co-advised with Prof. Klavs Jensen)
-  email: jcbui@mit.edu
-  linkedin: https://www.linkedin.com/in/justincbui/
-  twitter: https://x.com/JustinBui888
-  description: Justin received his Ph.D. in Chemical Engineering from UC Berkeley in 2024, working with Dr. Adam Weber and Prof. Alexis Bell to develop continuum models of electro-membrane and electrocatalytic systems. Afterwards, he worked at Caltech as a postdoc with Prof. Karthish Manthiram to develop flow reactors for electrochemical ammonia and epoxide synthesis. At MIT, Justin plans to leverage ML tools and automation to identify and optimize organic reactions that can be performed electrochemically.
 
 - name: Ashfaq Iftakher
   photo: Ashfaq_Iftakher.jpg
