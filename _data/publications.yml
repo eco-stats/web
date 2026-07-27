@@ -127,6 +127,19 @@
     - automation
     - data
 
+- title: "Efficient and Programmable Exploration of Synthesizable Chemical Space"
+  authors: Luo, S., Coley, C.W.
+  journal: TMLR
+  year: 2026
+  url: https://openreview.net/forum?id=xDlIer2UnI
+  preprint: arXiv:2512.00384
+  preprint_url: https://doi.org/10.48550/arXiv.2512.00384
+  preprint_site: arxiv
+  preprint_year: 2025
+  themes:
+    - design and optimization
+    - data
+
 - title: "A machine learning-based workflow for transaminase selection"
   authors: Rago, A.J., Raghavan, P., Santiago-Capeles, L., Zhang, R., Wang, Y., Coley, C.W.
   journal: Chem. Sci.
@@ -282,19 +295,6 @@
   preprint_site: chemrxiv
   themes:
     - design and optimization
-
-- title: "Efficient and Programmable Exploration of Synthesizable Chemical Space"
-  authors: Luo, S., Coley, C.W.
-  journal: arXiv
-  year: 2025
-  url: https://doi.org/10.48550/arXiv.2512.00384
-  preprint: arXiv:2512.00384
-  preprint_url: https://doi.org/10.48550/arXiv.2512.00384
-  preprint_site: arxiv
-  preprint_year: 2025
-  themes:
-    - design and optimization
-    - data
 
 - title: "Random Heteropolymers Enable Nonspecific Protein Binding and Loop-Mediated Stabilization"
   authors: Jin, T., Dagadu, A., Coley, C.W., Alexander-Katz, A.
