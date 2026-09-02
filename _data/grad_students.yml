@@ -80,7 +80,8 @@
   info: PhD Student
   email: mcox340@mit.edu
   linkedin: https://www.linkedin.com/in/mcox6782/
-  description: Matthew obtained his BS in Chemical Engineering from Caltech in 2024 and is now a PhD student in Chemical Engineering at MIT. He is interested in developing optimization and machine learning methods in the context of molecular design and discovery.
+  website: https://mcox3406.github.io
+  description: Matthew obtained his BS in Chemical Engineering from Caltech in 2024 and is now a PhD candidate in Chemical Engineering at MIT. His research currently focuses on post-training LLMs and building LLM agents for computational chemistry and materials science.
 
 - name: Mingrou Xie
   photo: Mingrou_Xie.jpeg
