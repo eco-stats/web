@@ -14,13 +14,13 @@
   description: "Left-to-right: Ao Sun, Shaoqian Huang, Grace Davenport, Ben Maslen, David Warton"
   image: /images/carouselpic/ecostats26.jpg
   link: 
-  date: 2026-01-27
+  date: 2026-09-03
 
-- title: QUARC
-  description: Data-driven recommendation of agents, temperature, and equivalence ratios for organic synthesis
-  image: /images/carouselpic/quarc.png
-  link: https://doi.org/10.1039/D5SC04957A
-  date: 2025-09-05
+- title: 
+  description: 
+  image: /images/carouselpic/EcoStatsSwirls.JPG
+  link: 
+  date: 2026-09-04
 
 - title: ICEBERG
   description: Neural spectral prediction for structure elucidation with tandem mass spectrometry
