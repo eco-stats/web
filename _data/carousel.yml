@@ -20,64 +20,16 @@
   description: 
   image: /images/carouselpic/EcoStatsSwirls.JPG
   link: 
-  date: 2026-09-04
+  date: 2026-09-02
 
 - title: 
   description: 
   image: /images/carouselpic/trees2_860.JPG
   link: 
-  date: 2026-09-04
+  date: 2026-09-02
 
 - title: 
   description: 
   image: /images/carouselpic/cockatooRes.JPG
   link: 
-  date: 2026-09-04
-
-- title: SynFormer
-  description: Generative AI for navigating synthesizable chemical space
-  image: /images/carouselpic/synformer.png
-  link: https://doi.org/10.1073/pnas.2415665122
-  date: 2025-04-29
-
-- title: ContraScope
-  description: Revealing the Relationship between Publication Bias and Chemical Reactivity with Contrastive Learning
-  image: /images/carouselpic/contrascope.jpeg
-  link: https://pubs.acs.org/doi/10.1021/jacs.5c01120
-  date: 2025-03-02
-
-- title: Higher-Level Retrosynthesis
-  description: Higher-level strategies in computer-aided retrosynthesis
-  image: /images/carouselpic/higherlevelretro.png
-  link: https://chemrxiv.org/engage/chemrxiv/article-details/67a367196dde43c908af44a1
-  date: 2025-02-20
-
-- title: DiffMS
-  description: Diffusion Generation of Molecules Conditioned on Mass Spectra
-  image: /images/carouselpic/diffms.png
-  link: https://arxiv.org/abs/2502.09571
-  date: 2025-02-13
-
-- title: ShEPhERD
-  description: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design
-  image: /images/carouselpic/shepherd.png
-  link: https://arxiv.org/abs/2411.04130
-  date: 2024-09-01
-
-- title: DESP
-  description: Double-ended synthesis planning with goal-constrained bidirectional search
-  image: /images/carouselpic/desp.png
-  link: https://doi.org/10.48550/arXiv.2407.06334
-  date: 2024-07-08
-
-- title: SPARROW
-  description: Algorithmic framework for synthetic cost-aware decision making in molecular design
-  image: /images/carouselpic/sparrow.png
-  link: https://www.nature.com/articles/s43588-024-00639-y
-  date: 2024-07-17
-
-- title: RDCanon
-  description: Python package for canonicalizing SMARTS queries
-  image: /images/carouselpic/rdcanon.jpeg
-  link: https://pubs.acs.org/doi/10.1021/acs.jcim.4c00138
-  date: 2024-03-15
+  date: 2026-09-02
