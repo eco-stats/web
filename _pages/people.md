@@ -23,7 +23,7 @@ permalink: /people
 {% endif %}
 {% endfor %}
 
-<h2 style="text-align: center; padding-top: 30px">Principal Investigator</h2>
+
 <div class="col-sm-12 clearfix" style="text-align: center; ">
 <div style="text-align: center;">
 <div class="image-cropper">
@@ -90,15 +90,6 @@ UNSW Sydney<br></i>
 ## Lab Alumni
 <i>Graduate students, postdoctoral associates & fellows, research scientists</i>
 {% for member in site.data.alumni %}
-{% if member.link %}
-- [{{ member.name }}]({{ member.link }}) ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
-{% else %}
-- {{ member.name }} ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
-{% endif %}
-{% endfor %}
-
-<i>Undergraduate students</i>
-{% for member in site.data.alumni_ug %}
 {% if member.link %}
 - [{{ member.name }}]({{ member.link }}) ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
 {% else %}
