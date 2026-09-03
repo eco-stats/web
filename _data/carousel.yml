@@ -22,17 +22,17 @@
   link: 
   date: 2026-09-04
 
-- title: ICEBERG
-  description: Neural spectral prediction for structure elucidation with tandem mass spectrometry
-  image: /images/carouselpic/iceberg.png
-  link: https://www.biorxiv.org/content/10.1101/2025.05.28.656653v1.full
-  date: 2025-06-01
+- title: 
+  description: 
+  image: /images/carouselpic/trees2_860.JPG
+  link: 
+  date: 2026-09-04
 
-- title: FlowER
-  description: Electron flow matching for generative reaction mechanism prediction
-  image: /images/carouselpic/flower.png
-  link: https://www.nature.com/articles/s41586-025-09426-9#citeas
-  date: 2025-08-20
+- title: 
+  description: 
+  image: /images/carouselpic/cockatooRes.JPG
+  link: 
+  date: 2026-09-04
 
 - title: SynFormer
   description: Generative AI for navigating synthesizable chemical space
