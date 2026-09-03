@@ -1,5 +1,5 @@
 ---
-title: "Eco-Stats Group"
+title: "Eco-Stats Research Group"
 layout: homelay
 excerpt: "UNSW Eco-Stats Research Group"
 sitemap: false
