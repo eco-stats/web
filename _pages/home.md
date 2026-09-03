@@ -1,7 +1,7 @@
 ---
-title: "Coley Research Group"
+title: "Eco-Stats Research"
 layout: homelay
-excerpt: "Coley Research Group"
+excerpt: "Eco-Stats Research"
 sitemap: false
 permalink: /
 ---
