@@ -22,7 +22,7 @@
 
 # Make sure to check how it looks using `jekyll serve`
 
-- title: PrexSyn
+- title: 
   description: Efficient and Programmable Exploration of Synthesizable Chemical Space
   image: /images/carouselpic/prexsyn.png
   link: https://arxiv.org/abs/2512.00384
