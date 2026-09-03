@@ -1,38 +1,6 @@
-# Coley Research Group Website
+# UNSW Eco-Stats Research Group Website
 
-This is the repo for the website of the Coley Research group at MIT. It is modified on top of a Jekyll template developed by the Allan Lab.
-
-## Contributor Guide
-
-All Coley Group members are free to make changes and additions to the website (such as adding/removing themselves to/from the "People" page) through this repo, pending approval. The existing templating combined with the following guide should hopefully make this process as painless as possible. Stylistic or template change suggestions are also welcome but may require navigating some messy templates or CSS.
-
-Before you do anything, make sure you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your machine. Then, **(1)** fork this repo and **(2)** clone the forked repo to your local machine with the command:
-```bash
-$ git clone https://github.com/{your_username}/coley.mit.edu.git
-```
-
-### Local deployment
-
-If you are making non-trivial changes (i.e. beyond just adding yourself to the "People" page), it is highly encouraged to locally deploy the website on your machine to preview the website before making a pull request. First, install Jekyll if you have not done so, following [the official guide](https://jekyllrb.com/docs/installation/#requirements) corresponding to your OS. 
-
-In the folder corresponding to your cloned repo, simply run the following to serve the website at `http://localhost:4000`.
-```bash
-$ jekyll serve
-```
-
-### Making changes and pull requests
-
-First, working in your forked repo, create and checkout a new branch (give it a descriptive name) with the command
-```bash
-$ git checkout -b BRANCH_NAME
-```
-After you make your changes, commit and push your changes to the branch:
-```bash
-$ git add .
-$ git commit -m "COMMIT MESSAGE"
-$ git push --set-upstream origin BRANCH_NAME
-```
-Finally, perform a pull request so that your changes can be reviewed and merged into the main repo. This can be done easily through the Github UI on the browser from your fork repo page.
+This is the repo for the website of the Eco-Stats Research group at UNSW. It is modified on top of a Jekyll template developed by the Allan Lab and used by the Coley Lab at MIT.
 
 ### Adding you or someone else to the "People" page
 
@@ -44,34 +12,6 @@ Adding yourself to the People page is very simple!
     - Add a short biography for the `description` field.
 
 That's it! Go ahead and make a pull request when you are satisfied.
-
-### Adding publications
-
-Some instructions for adding publications and a template are at the top of the (`_data/publications.yml`) file for your convenience. The main format for a citation is as follows:
-- Author list. Linked Title. *Journal*. Volume(Issue), Pages. (Year) DOI/preprint: DOI/preprint_ID.
-
-The minimum required fields are: `title`, `authors`, `journal`, `year`, `url`, `themes`.
-- For journal papers, be sure to at least include `doi`
-- For preprints, be sure to at least include `preprint`, `preprint_url`
-- For conference papers, be sure to at least include `preprint_url`
-
-If the `preprint_url` field is filled out, then the preprint button will appear under the citation.
-
-Further, research themes should be added for each paper and they will appear as tags below the citation. The available themes and their associated colors are found in (`_data/research_themes.yml`). Currently these themes are: 
-- molecular representation
-- design and optimization
-- predictive chemistry
-- automation
-- metabolomics
-- data
-
-Note: There are slight nuances with respect to the `doi` and `preprint` fields since the former supercedes the latter.
-- For preprints
-    - Do NOT include the `doi` field
-    - DO include the `preprint` and related fields.
-- For conference papers
-    - Do NOT include `doi` OR `preprint` fields.
-    - DO include `url`, `preprint_url`, `preprint_site`, `preprint_year`.
 
 ### Other changes
 
