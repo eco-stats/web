@@ -1,7 +1,7 @@
 ---
-title: "Eco-Stats Research"
+title: "Eco-Stats Group"
 layout: homelay
-excerpt: "Eco-Stats Research"
+excerpt: "UNSW Eco-Stats Research Group"
 sitemap: false
 permalink: /
 ---
