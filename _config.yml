@@ -11,7 +11,7 @@ email: David.Warton@unsw.edu.au
 description: > # this means to ignore newlines until "baseurl:"
   UNSW Eco-Stats Group Website.
 baseurl: "/web"
-url: "https://eco-stats.github.io/web"  # or your actual domain"
+url: "https://eco-stats.github.io"  # or your actual domain"
 
 include:
   - .htaccess
