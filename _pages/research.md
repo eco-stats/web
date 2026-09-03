@@ -14,7 +14,7 @@ permalink: /research
 [insert detail]
 
 <div style="text-align: center">
-<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/discovery-1.png" alt="Chemical discovery overview"/>
+<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
 </div>
 
 <br/>
@@ -35,7 +35,3 @@ _Current projects:_
 
 #### more detail
 
-<li>Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., Coley, C. W., Xiao, C., Sun, J., Zitnik, M. "Therapeutics Data Commons: Machine learning datasets and tasks for therapeutics". <i>NeurIPS</i> (2021)</li>
-<li>Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., Coley, C. W., Xiao, C., Sun, J., Zitnik, M. "Artificial intelligence foundation for therapeutic science". <i>Nature Chem. Bio.</i> (2022)</li>
-</ul>
-<br/>
