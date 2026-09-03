@@ -1,7 +1,7 @@
 ---
-title: "Coley Research Group - People"
+title: "Eco-Stats Research Group - People"
 layout: gridlay
-excerpt: "Coley Research Group: People"
+excerpt: "Eco-Stats Research Group: People"
 sitemap: false
 permalink: /people
 ---
