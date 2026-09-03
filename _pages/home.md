@@ -6,8 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome to the Coley Group Website!
+### Welcome to the Eco-Stats Website!
 ---
-Based in MIT’s Department of Chemical Engineering, Department of Electrical Engineering and Computer Science, and the Schwarzman College of Computing, we combine expertise in chemical engineering, computer science, and chemistry to accelerate the design, discovery, and development of new molecules and reactions. We develop platform technologies and workflows with relevance to small molecule drug discovery, chemical synthesis, and structure elucidation. The majority of our work is computational and makes extensive use of advances of machine learning as well as more traditional approaches in cheminformatics, but we maintain an interest in laboratory automation as applied to testing computational hypotheses, validating model predictions, and generating high-fidelity experimental data. One of the core ways we contribute to the field is by formulating problems in chemistry in a manner amenable to modern computational approaches without making simplifying assumptions that abstract away too much complexity to be of practical use.
+Meet the UNSW Eco-Stats Research Group - a team of experts in statistics research and students, led by David Warton, who specialize in improving the methods for utilizing data to answer research questions in ecology.
 
+Our focus is on evaluating existing methodologies, exploring little-known modern methods, and developing entirely new statistical methodologies, with a particular emphasis on model-based approaches. These approaches are generally easier to interpret and often have optimality properties.
+
+Our team is based at the [School of Mathematics and Statistics]{https://www.unsw.edu.au/science/our-schools/maths}{:target="_blank"}, and our members are affiliated with other research centers, including the [Evolution & Ecology Research Centre]{https://www.unsw.edu.au/research/eerc}{:target="_blank"} and the [Centre for Ecosystem Science]{https://www.unsw.edu.au/research/ecosystem}{:target="_blank"}.
+
+We are proud to be supported by the Australian Research Council, with over $4M in ARC funding over the last decade or so.
 [Read more about our research]({{ site.url }}{{ site.baseurl }}/research)
