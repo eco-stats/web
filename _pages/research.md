@@ -53,14 +53,19 @@ _Current projects:_
 
 - **2024-26 ARC Discovery Project** ($401,287)  
   Hui F, Menendez P, Warton DI, Woolley S & Foster S  
-  "Modern statistical methods for clustering community ecology data".
+  "Modern statistical methods for clustering community ecology data"
 
 - **2021-23 ARC Discovery Project** ($410,000)  
-  Warton DI & Stoklosa J "Innovative statistical methods for analysing high-dimensional counts".
+  Warton DI & Stoklosa J\
+  "Innovative statistical methods for analysing high-dimensional counts"
 
-- **2020-25 Industrial Transformation Training Centres** ($4,187,178) Vervoort R, Warton DI and 30 others "ARC Training Centre in Data Analytics for Resources and Environments (DARE)".
+- **2020-25 Industrial Transformation Training Centres** ($4,187,178)\
+  Vervoort R, Warton DI and 30 others\
+  "ARC Training Centre in Data Analytics for Resources and Environments (DARE)".
 
-- **2019-23 NHMRC grant** ($933,605.30) R Herbert, I Novak, C Rae, D Warton, B Bolsterlee, C Morgan "Muscle growth and muscle contracture in cerebral palsy".
+- **2019-23 NHMRC grant** ($933,605.30)\
+  R Herbert, I Novak, C Rae, D Warton, B Bolsterlee, C Morgan\
+  "Muscle growth and muscle contracture in cerebral palsy".
 
 - **2018-2020 ARC Discovery Project** ($371,923)
   Warton DI ``New insights from point event data in ecology"
