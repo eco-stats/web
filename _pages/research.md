@@ -32,13 +32,14 @@ _Current projects:_
 
 <br/>
 
-## Species distribution modelling
+## Species distribution models
 Species distribution modelling uses records of where a species is known to occur to model how it relates to a suite of environmental variables.
 
 This may be done to better understand the ecology of the target species, to predict its response to environmental change, or to assist conservation efforts. The modelling process involves many challenging steps, and we are currently exploring the following problems:
 
 <div style="text-align: center">
 <img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
+</div>
 
 _Current projects:_
 <ul>
@@ -46,7 +47,15 @@ _Current projects:_
 <li>Machine learning and species distribution modelling (Grace Davenport)</li>
 </ul>
 
+## Other research
+We are interested in other challenging methodological problems too, at the interface between statistics (and machine learning) and ecology or related disciplines.
+
+Some recent examples:
+- Automated classification of fish and estimation of fish density using artificial intelligence (Ben Maslen)</li>
+- Variance estimation in multiple imputation and the MCEM algorithms (Ao Sun)</li>
 
 
-</div>
+## Research grants
+
+
 
