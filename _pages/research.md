@@ -8,7 +8,7 @@ permalink: /research
 
 # Research
 
-Eco-Stats has received over $9M in Australian Research Council funding since 2007 (see Research grants for details), and have published over 100 papers in international journals, including top journals in statistics, ecology, and biology (see [Publications](https://scholar.google.com.au/citations?hl=en&user=RZXBRjgAAAAJ&view_op=list_works&sortby=pubdate)).
+Eco-Stats has received over $9M in Australian Research Council funding since 2007 (see Research grants for details), and have published over 100 papers in international journals, including top journals in statistics, ecology, and biology (see [Publications](https://scholar.google.com.au/citations?hl=en&user=RZXBRjgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}).
 
 We're always on the lookout for new and interesting projects! As our expertise is at the interface between statistics and ecology, we're particularly interested in problems that straddle these two disciplines.
 
