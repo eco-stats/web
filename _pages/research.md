@@ -51,9 +51,12 @@ _Current projects:_
 ---
 ## Research grants
 
-- **2024-26 ARC Discovery Project** ($401,287) Hui F, Menendez P, Warton DI, Woolley S & Foster S "Modern statistical methods for clustering community ecology data".
+- **2024-26 ARC Discovery Project** ($401,287)  
+  Hui F, Menendez P, Warton DI, Woolley S & Foster S  
+  "Modern statistical methods for clustering community ecology data".
 
-- **2021-23 ARC Discovery Project** ($410,000) Warton DI & Stoklosa J "Innovative statistical methods for analysing high-dimensional counts".
+- **2021-23 ARC Discovery Project** ($410,000)  
+  Warton DI & Stoklosa J "Innovative statistical methods for analysing high-dimensional counts".
 
 - **2020-25 Industrial Transformation Training Centres** ($4,187,178) Vervoort R, Warton DI and 30 others "ARC Training Centre in Data Analytics for Resources and Environments (DARE)".
 
@@ -71,14 +74,14 @@ _Current projects:_
 - **2012-2016 ARC Future Fellowship** ($622,856)
   Warton DI "Predicting the ecological impacts of climate change: advancing tools for the analysis of high-dimensional data in ecology"
 
-\bold{2012-2014 ARC Discovery Project} \$300\,000\\
-Warton, D.I.\ ``New approaches to predictive modelling of high-dimensional count data to study climate impacts on ecological communities"
+- 2012-2014 ARC Discovery Project ($300,000)
+Warton DI "New approaches to predictive modelling of high-dimensional count data to study climate impacts on ecological communities"
 
-\bold{2010-2013 ARC Linkage Grant} \$401\,000.\\
-Ramp D., Warton D.I., Jenkins K.M., Ashcroft M.B., Gollan J.R., Driver P. ``Innovative approaches to identifying regional responses of biodiversity to climate change"
+- 2010-2013 ARC Linkage Grant ($401,000)
+Ramp D, Warton DI, Jenkins KM, Ashcroft MB, Gollan JR, Driver P "Innovative approaches to identifying regional responses of biodiversity to climate change"
 
-\bold{2009-2011 ARC Discovery Project} \$282\,000.\\
-Warton, D.I.\ ``Advances in statistical methods for analysing high dimensional count data"
+- 2009-2011 ARC Discovery Project ($282,000)
+Warton DI "Advances in statistical methods for analysing high dimensional count data"
 
 \bold{2009-2011 ARC Discovery Project} \$300\,000.\\
 Warton, D.I., Andrew, N.R.\ \& Gibb, H.\ ``Predicting the effect of climate change on community structure and function: an assessment using temperate grassland invertebrates"
