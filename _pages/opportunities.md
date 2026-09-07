@@ -14,11 +14,13 @@ Not 100% sure the ecology focus is for you? Firstly, note that prior experience 
 
 Eco-Stats researchers are based in the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths){:target="_blank"}, but are also affiliated with the [Evolution & Ecology Research Centre](https://www.unsw.edu.au/research/eerc){:target="_blank"}. As such, it is possible to do an Eco-Stats project while being enrolled through either these organisational unit.
 
+---
 ## Project ideas
 
 #### Multivariate models for eDNA data
 High-throughput data (such as environmental DNA data) typically comes with information collected jointly on thousands of taxa. How can we fit models efficiently to data of this type? We will explore a number of options centered around extensions of generalised linear latent variable models that are scalable to high dimensions.
 
+---
 #### Advances for errors-in-variables modelling
 Often predictor variables (in ecology and elsewhere) are measured with error, and failing to take this into account biases estimates of the fitted model, and often, subsequent predictions. We have been developing easy-to-use algorithms for modelling such data, having initially focussed on generalised linear models for data with measurement error that is independent across observations. Important extensions include: how to extend to spatially correlated measurement error? How to generalise to handle general predictive models (beyond GLM)?
 
