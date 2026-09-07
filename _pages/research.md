@@ -17,20 +17,17 @@ We're always on the lookout for new and interesting projects! As our expertise i
 ## Analysis of multivariate abundances 
 Multivariate abundance data are abundances collected simultaneously for many taxa (species, orders, functional groups...). This type of data is commonly collected in ecology and the environmental sciences, and has been collected and analysed in thousands of publications. There are many possibilities for significant contributions to this field, using a more rigorous model-based approach to analysis.
 
-<div style="text-align: center">
-<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
-</div>
-
 <br/>
 
 _Current projects:_
-<ul>
-<li>Fast algoritms for eDNA data (Charbel Sammoun)</li>
-<li>Model-based approaches for phylogenetic and funcitonal diversity (Shaoqian Huang)</li>
-<li>Multivariate models for point event data (Jessie Guo)</li>
-</ul>
+- Fast algoritms for eDNA data (Charbel Sammoun)
+- Model-based approaches for phylogenetic and funcitonal diversity (Shaoqian Huang)
+- Multivariate models for point event data (Jessie Guo)
 
 <br/>
+<div style="text-align: center">
+<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
+</div>
 
 ---
 ## Species distribution models
@@ -38,23 +35,17 @@ Species distribution modelling uses records of where a species is known to occur
 
 This may be done to better understand the ecology of the target species, to predict its response to environmental change, or to assist conservation efforts. The modelling process involves many challenging steps, and we are currently exploring the following problems:
 
-<div style="text-align: center">
-<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
-</div>
-
 _Current projects:_
-<ul>
-<li>Statistical methods to track how species distribution changes in response to climate change (Sam Mason)</li>
-<li>Machine learning and species distribution modelling (Grace Davenport)</li>
-</ul>
+- Statistical methods to track how species distribution changes in response to climate change (Sam Mason)
+- Machine learning and species distribution modelling (Grace Davenport)
 
 ---
 ## Other research
 We are interested in other challenging methodological problems too, at the interface between statistics (and machine learning) and ecology or related disciplines.
 
-Some recent examples:
-- Automated classification of fish and estimation of fish density using artificial intelligence (Ben Maslen)</li>
-- Variance estimation in multiple imputation and the MCEM algorithms (Ao Sun)</li>
+_Current projects:_
+- Automated classification of fish and estimation of fish density using artificial intelligence (Ben Maslen)
+- Variance estimation in multiple imputation and the MCEM algorithms (Ao Sun)
 
 
 ---
