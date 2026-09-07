@@ -51,46 +51,53 @@ _Current projects:_
 ---
 ## Research grants
 
-- **2024-26 ARC Discovery Project** ($401,287)<br>
-  Hui F, Menendez P, Warton DI, Woolley S & Foster S<br>
+- **2024-26 ARC Discovery Project** ($401,287)\
+  Hui F, Menendez P, Warton DI, Woolley S & Foster S\
   "Modern statistical methods for clustering community ecology data"
 
-- **2021-23 ARC Discovery Project** ($410,000)<br>
-  Warton DI & Stoklosa J<br>
+- **2021-23 ARC Discovery Project** ($410,000)\
+  Warton DI & Stoklosa J\
   "Innovative statistical methods for analysing high-dimensional counts"
 
-- **2020-25 Industrial Transformation Training Centres** ($4,187,178)<br>
-  Vervoort R, Warton DI & 30 others<br>
+- **2020-25 Industrial Transformation Training Centres** ($4,187,178)\
+  Vervoort R, Warton DI & 30 others\
   "ARC Training Centre in Data Analytics for Resources and Environments (DARE)"
 
-- **2019-23 NHMRC grant** ($933,605.30)<br>
-  Herbert R, Novak I, Rae C, Warton D, Bolsterlee B, Morgan C<br>
+- **2019-23 NHMRC grant** ($933,605.30)\
+  Herbert R, Novak I, Rae C, Warton D, Bolsterlee B, Morgan C\
   "Muscle growth and muscle contracture in cerebral palsy"
 
-- **2018-2020 ARC Discovery Project** ($371,923)<br>
-  Warton DI<br>
+- **2018-2020 ARC Discovery Project** ($371,923)\
+  Warton DI\
   "New insights from point event data in ecology"
 
 - **2015-2018 ARC Linkage Project** ($556,256.50)\
-  Keith D, Phinn S, Elith, RJ, Warton, DI, Connolly, D "Advancing vegetation classification and mapping to meet conservation needs"
+  Keith D, Phinn S, Elith, RJ, Warton DI & Connolly D\
+  "Advancing vegetation classification and mapping to meet conservation needs"
 
-- **2015-2017 ARC Discovery Project** ($299,500)\
-  Warton DI "Advances in biodiversity modelling -- analysis of high-dimensional counts"
+- **2015-2017 ARC Discovery Project** ($299,500)<br>
+  Warton DI<br>
+  "Advances in biodiversity modelling -- analysis of high-dimensional counts"
 
-- **2012-2016 ARC Future Fellowship** ($622,856)\
-  Warton DI "Predicting the ecological impacts of climate change: advancing tools for the analysis of high-dimensional data in ecology"
+- **2012-2016 ARC Future Fellowship** ($622,856)<br>
+  Warton DI<br>
+  "Predicting the ecological impacts of climate change: advancing tools for the analysis of high-dimensional data in ecology"
 
-- **2012-2014 ARC Discovery Project** ($300,000)\
-Warton DI "New approaches to predictive modelling of high-dimensional count data to study climate impacts on ecological communities"
+- **2012-2014 ARC Discovery Project** ($300,000)<br>
+Warton DI<br>
+"New approaches to predictive modelling of high-dimensional count data to study climate impacts on ecological communities"
 
-- **2010-2013 ARC Linkage Grant** ($401,000)\
-Ramp D, Warton DI, Jenkins KM, Ashcroft MB, Gollan JR, Driver P "Innovative approaches to identifying regional responses of biodiversity to climate change"
+- **2010-2013 ARC Linkage Grant** ($401,000)<br>
+Ramp D, Warton DI, Jenkins KM, Ashcroft MB, Gollan JR, Driver P<br>
+"Innovative approaches to identifying regional responses of biodiversity to climate change"
 
-- **2009-2011 ARC Discovery Project** ($282,000)\
-Warton DI "Advances in statistical methods for analysing high dimensional count data"
+- **2009-2011 ARC Discovery Project** ($282,000)<br>
+Warton DI<br>
+"Advances in statistical methods for analysing high dimensional count data"
 
-- **2009-2011 ARC Discovery Project** ($300,000)\
-Warton DI, Andrew NR\ & Gibb H "Predicting the effect of climate change on community structure and function: an assessment using temperate grassland invertebrates"
+- **2009-2011 ARC Discovery Project** ($300,000)<br>
+Warton DI, Andrew NR & Gibb H<br>
+"Predicting the effect of climate change on community structure and function: an assessment using temperate grassland invertebrates"
 
 - **2007-2009 ARC Linkage Project** ($450,000)\
 Kingsford RT, Laffan SW, Warton DI, Merson JA, Bradstock RA, Mulley R, Auld TD, and Chapple RS\
