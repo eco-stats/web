@@ -18,6 +18,3 @@ That's it! Go ahead and make a pull request when you are satisfied.
 The following have been set up to be similarly easy to add new content to. Hopefully it should be simple to extrapolate the editing of `.yml` files to the following, but ask Kevin or Kento if you need help.
 - News (`_data/news.yml`)
 - Group photos (`_data/photos.yml`, images go in `images/grouppic/`)
-- Open source software (`_data/software.yml`, logos go in `images/logopic`)
-- Research relevant to Connor's directions on the "Research" page (`_data/research.yml`)
-- WIP: The carousel highlighting recent work still needs to be refactored to be easily editable with `.yml` files. For now, they are manually declared in `_includes/carousel.html` with pictures in `image/carouselpic`)
