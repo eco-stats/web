@@ -1,0 +1,13 @@
+/* Make dropdown toggle on hover instead of click */
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.nav-item.dropdown .dropdown-toggle {
+  cursor: pointer;
+}
+
+/* Prevent dropdown from closing on hover */
+.nav-item.dropdown .dropdown-menu {
+  margin-top: 0;
+}
