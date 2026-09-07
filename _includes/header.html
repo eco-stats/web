@@ -16,11 +16,17 @@
 	  <ul class="nav navbar-nav navbar-right">
 		<li class="nav-item {% if page.permalink == '/' %}active {% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
 		<li class="nav-item {% if page.permalink == '/people' %}active {% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/people">People</a></li>
-<!--		<li class="nav-item {% if page.permalink == '/research' %}active {% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li> -->
 <li class="nav-item dropdown {% if page.permalink == '/research' %}active {% endif %}">
-  <a href="{{ site.url }}{{ site.baseurl }}/research" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+  <!-- Main link: click navigates to /research -->
+  <a href="{{ site.url }}{{ site.baseurl }}/research" class="nav-link research-link">
     Research <span class="caret"></span>
   </a>
+
+  <!-- Small-screen toggle: only visible on collapsed/mobile -->
+  <button class="submenu-toggle visible-xs" aria-expanded="false" aria-label="Toggle Research submenu">
+    <span class="caret"></span>
+  </button>
+
   <ul class="dropdown-menu">
     <li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
     <li role="separator" class="divider"></li>
@@ -30,7 +36,7 @@
     <li role="separator" class="divider"></li>
     <li><a href="{{ site.url }}{{ site.baseurl }}/research#grants">Research Grants</a></li>
   </ul>
-</li>		  
+</li>
 		<li class="nav-item {% if page.permalink == '/publications' %}active {% endif %}"><a href="https://scholar.google.com.au/citations?hl=en&user=RZXBRjgAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Publications</a></li>
 		<li class="nav-item {% if page.permalink == '/positions' %}active {% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/positions">Opportunities</a></li>
 		<li class="nav-item {% if page.permalink == '/software' %}active {% endif %}"><a href="https://github.com/eco-stats" target="_blank">Software</a></li>
