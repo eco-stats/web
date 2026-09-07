@@ -59,14 +59,11 @@ _Current projects:_
 
 - **2019-23 NHMRC grant** ($933,605.30) R Herbert, I Novak, C Rae, **D Warton**, B Bolsterlee, C Morgan "Muscle growth and muscle contracture in cerebral palsy".
 
-\bold{2018-2020 ARC Discovery Project} (\$371\,923)\\
-\textbf{Warton D.I.} ``New insights from point event data in ecology"
+- **2018-2020 ARC Discovery Project** ($371,923)
+  **Warton D.I.** ``New insights from point event data in ecology"
 
-\bold{2016-2017 MREII} (\$900\,000)\\
-\textbf{Warton D.I.} \& Hayen A. ``Statistical Consulting Unit", Mark Wainwright Analytical centre (via a MREII application)
-
-\bold{2015-2018 ARC Linkage Project} (\$556\,256.50)\\
-Keith D., Phinn S., Elith, R.J., \textbf{Warton, D.I.}, Connolly, D. ``Advancing vegetation classification and mapping to meet conservation needs"
+- **2015-2018 ARC Linkage Project** ($556,256.50)
+  Keith D, Phinn S, Elith, RJ, **Warton, DI**, Connolly, D "Advancing vegetation classification and mapping to meet conservation needs"
 
 \bold{2015-2017 ARC Discovery Project} \$299\,500.\\
 Warton, D.I.\ ``Advances in biodiversity modelling -- analysis of high-dimensional counts"
