@@ -63,12 +63,12 @@ _Current projects:_
   Vervoort R, Warton DI & 30 others<br>
   "ARC Training Centre in Data Analytics for Resources and Environments (DARE)"
 
-- **2019-23 NHMRC grant** ($933,605.30)\
-  Herbert R, Novak I, Rae C, Warton D, Bolsterlee B, Morgan C\
+- **2019-23 NHMRC grant** ($933,605.30)<br>
+  Herbert R, Novak I, Rae C, Warton D, Bolsterlee B, Morgan C<br>
   "Muscle growth and muscle contracture in cerebral palsy"
 
-- **2018-2020 ARC Discovery Project** ($371,923)\
-  Warton DI\
+- **2018-2020 ARC Discovery Project** ($371,923)<br>
+  Warton DI<br>
   "New insights from point event data in ecology"
 
 - **2015-2018 ARC Linkage Project** ($556,256.50)\
