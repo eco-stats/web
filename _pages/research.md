@@ -51,8 +51,8 @@ _Current projects:_
 ---
 ## Research grants
 
-- **2024-26 ARC Discovery Project** ($401,287)
-  Hui F, Menendez P, Warton DI, Woolley S & Foster S
+- **2024-26 ARC Discovery Project** ($401,287)\
+  {Hui F, Menendez P, Warton DI, Woolley S & Foster S}
   "Modern statistical methods for clustering community ecology data"
 
 - **2021-23 ARC Discovery Project** ($410,000)
