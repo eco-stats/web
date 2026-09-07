@@ -64,7 +64,7 @@ _Current projects:_
   "ARC Training Centre in Data Analytics for Resources and Environments (DARE)"
 
 - **2019-23 NHMRC grant** ($933,605.30)\
-  Herbert R, Novak I, Rae C, Warton D, Bolsterlee B, Morgan C\
+  Herbert R, Novak I, Rae C, Warton D, Bolsterlee B & Morgan C\
   "Muscle growth and muscle contracture in cerebral palsy"
 
 - **2018-2020 ARC Discovery Project** ($371,923)\
@@ -88,7 +88,7 @@ _Current projects:_
   "New approaches to predictive modelling of high-dimensional count data to study climate impacts on ecological communities"
 
 - **2010-2013 ARC Linkage Grant** ($401,000)\
-  Ramp D, Warton DI, Jenkins KM, Ashcroft MB, Gollan JR, Driver P\
+  Ramp D, Warton DI, Jenkins KM, Ashcroft MB, Gollan JR & Driver P\
   "Innovative approaches to identifying regional responses of biodiversity to climate change"
 
 - **2009-2011 ARC Discovery Project** ($282,000)\
@@ -100,7 +100,7 @@ _Current projects:_
   "Predicting the effect of climate change on community structure and function: an assessment using temperate grassland invertebrates"
 
 - **2007-2009 ARC Linkage Project** ($450,000)\
-Kingsford RT, Laffan SW, Warton DI, Merson JA, Bradstock RA, Mulley R, Auld TD, and Chapple RS\
+Kingsford RT, Laffan SW, Warton DI, Merson JA, Bradstock RA, Mulley R, Auld TD & Chapple RS\
 "Managing Ecosystem Change in the Greater Blue Mountains World Heritage Area"
 
 
