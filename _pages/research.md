@@ -51,8 +51,8 @@ _Current projects:_
 ---
 ## Research grants
 
-- **2024-26 ARC Discovery Project** ($401,287)  
-  Hui F, Menendez P, Warton DI, Woolley S & Foster S  
+- **2024-26 ARC Discovery Project** ($401,287)\
+  Hui F, Menendez P, Warton DI, Woolley S & Foster S\
   "Modern statistical methods for clustering community ecology data"
 
 - **2021-23 ARC Discovery Project** ($410,000)  
@@ -67,8 +67,9 @@ _Current projects:_
   R Herbert, I Novak, C Rae, D Warton, B Bolsterlee, C Morgan\
   "Muscle growth and muscle contracture in cerebral palsy".
 
-- **2018-2020 ARC Discovery Project** ($371,923)
-  Warton DI ``New insights from point event data in ecology"
+- **2018-2020 ARC Discovery Project** ($371,923)\
+  Warton DI\
+  "New insights from point event data in ecology"
 
 - **2015-2018 ARC Linkage Project** ($556,256.50)
   <p>Keith D, Phinn S, Elith, RJ, Warton, DI, Connolly, D "Advancing vegetation classification and mapping to meet conservation needs"</p>
