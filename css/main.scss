@@ -356,42 +356,6 @@ pubtit {
   outline: none;
 }
 
-/* Make dropdown toggle on hover instead of click */
-.nav-item.dropdown:hover .dropdown-menu {
-  display: block;
-}
-
-.nav-item.dropdown .dropdown-toggle {
-  cursor: pointer;
-}
-
-/* Prevent dropdown from closing on hover */
-.nav-item.dropdown .dropdown-menu {
-  margin-top: 0;
-}
-
-/* Show dropdown on hover for md+ screens (desktop) */
-@media (min-width: 768px) {
-  .navbar .dropdown:hover .dropdown-menu {
-    display: block;
-  }
-  /* optional: prevent immediate closing when moving pointer */
-  .navbar .dropdown .dropdown-menu {
-    margin-top: 0; /* tweak if needed */
-  }
-}
-
-/* Style the small-screen submenu toggle (adjust to match site styles) */
-.submenu-toggle {
-  border: none;
-  background: transparent;
-  padding: 8px 10px;
-  color: inherit;
-}
-.submenu-toggle:focus {
-  outline: none;
-}
-
 /* Add mobile-specific dropdown fixes */
 @media (max-width: 767px) {
   .navbar .dropdown:hover .dropdown-menu {
