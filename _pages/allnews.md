@@ -1,7 +1,7 @@
 ---
-title: "Coley Research Group - News"
+title: "Eco-Stats Research Group - News"
 layout: textlay
-excerpt: "Coley Lab at MIT."
+excerpt: "UNSW Eco-Stats Research."
 sitemap: false
 permalink: /news
 ---
