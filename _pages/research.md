@@ -13,8 +13,8 @@ Eco-Stats has received over $9M in Australian Research Council funding since 200
 We're always on the lookout for new and interesting projects! As our expertise is at the interface between statistics and ecology, we're particularly interested in problems that straddle these two disciplines.
 
 
-## Analysis of multivariate abundances 
 ---
+## Analysis of multivariate abundances 
 Multivariate abundance data are abundances collected simultaneously for many taxa (species, orders, functional groups...). This type of data is commonly collected in ecology and the environmental sciences, and has been collected and analysed in thousands of publications. There are many possibilities for significant contributions to this field, using a more rigorous model-based approach to analysis.
 
 <div style="text-align: center">
@@ -32,6 +32,7 @@ _Current projects:_
 
 <br/>
 
+---
 ## Species distribution models
 Species distribution modelling uses records of where a species is known to occur to model how it relates to a suite of environmental variables.
 
@@ -47,6 +48,7 @@ _Current projects:_
 <li>Machine learning and species distribution modelling (Grace Davenport)</li>
 </ul>
 
+---
 ## Other research
 We are interested in other challenging methodological problems too, at the interface between statistics (and machine learning) and ecology or related disciplines.
 
@@ -55,6 +57,7 @@ Some recent examples:
 - Variance estimation in multiple imputation and the MCEM algorithms (Ao Sun)</li>
 
 
+---
 ## Research grants
 
 
