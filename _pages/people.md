@@ -25,8 +25,8 @@ permalink: /people
 
 <div class="col-sm-12 clearfix" style="text-align: center; ">
 <div style="text-align: center;">
-<div class="image-cropper">
 <br>
+<div class="image-cropper">
 <img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/David-2024-square.jpg" alt="David Warton photo"/>
 </div>
 <h4><b>David I. Warton</b></h4>
@@ -64,6 +64,7 @@ UNSW Sydney<br></i>
 <div class="row">
 {% endif %}
 {% endfor %}
+<br>
 </div>
 -->
 
