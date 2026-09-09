@@ -23,11 +23,10 @@ permalink: /people
 {% endif %}
 {% endfor %}
 
-<br>
-
 <div class="col-sm-12 clearfix" style="text-align: center; ">
 <div style="text-align: center;">
 <div class="image-cropper">
+<br>
 <img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/David-2024-square.jpg" alt="David Warton photo"/>
 </div>
 <h4><b>David I. Warton</b></h4>
@@ -38,10 +37,9 @@ UNSW Sydney<br></i>
 <a href="https://www.unsw.edu.au/staff/david-warton" target= "_blank"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" style="margin-right: 5px; margin-left: 5px; margin-top: 10px" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16"><path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293z"/><path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293z"/></svg></a>
   <!-- <a href="https://www.linkedin.com/in/david-warton-1788a11a1"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" style="margin-right: 5px; margin-left: 5px; margin-top: 10px"  fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16"><path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/></svg></a> -->
 <p>David is an ecological statistician who advances methodology for data analysis in ecology, to improve the ability of ecologists to answer important research questions. His cross-disciplinary research involves evaluating the methods for data analysis currently used in ecology, and where necessary, developing new methodologies to assist ecologists answer key research questions. He also co-founded <a href="https://www.unsw.edu.au/research/facilities-and-infrastructure/find-a-facility/stats-central" target="_blank"> Stats Central</a>, the UNSW statistical consulting and collaboration unit.</p>
-</div>
-</div>
-
 <br>
+</div>
+</div>
 
 <!-- Post-docs 
 <h2 style="text-align: center; padding: 30px">Postdoctoral Associates & Fellows and Research Scientists
