@@ -5,6 +5,14 @@
   linkedin: https://www.linkedin.com/in/jordan-liles-934879126/
   description: Jordan completed his Ph.D. in Organic Chemistry in 2024 with Matthew Sigman at the University of Utah. Shortly after, he joined the Coley group to pursue machine learning-enabled approaches to catalyst design and automation-assisted reaction optimization. He is interested in developing ML tools rooted in physical organic chemistry principles to drive new reaction discovery and develop new asymmetric methods.
 
+- name: Ben Maslen
+  photo: Ben_Maslen.png
+  info: Lecturer
+  email: b.maslen@unsw.edu.au
+  linkedin: https://www.linkedin.com/in/benjmaslen/
+  website: https://benmaslen.github.io/
+  description: Ben is an ecological statistician and data scientist with research at the intersection of statistics, artificial intelligence, and ecology, with a focus on developing methods that help ecologists monitor, assess and protect the natural environment. Ben works particularly with remote underwater video, ecological abundance data and multivariate study design.
+
 - name: Runzhong Wang
   photo: Runzhong_Wang.jpeg
   info: Postdoctoral Associate
