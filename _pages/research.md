@@ -26,8 +26,10 @@ _Current projects:_
 - Multivariate models for point event data (Jessie Guo)
 <div>
 <div class="col-sm-4" >
-<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
+<img style="width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
 </div>
+
+  <br/>
   
 <!--
 <br/>
