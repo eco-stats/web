@@ -39,6 +39,10 @@ _Current projects:_
 - Statistical methods to track how species distribution changes in response to climate change (Sam Mason)
 - Machine learning and species distribution modelling (Grace Davenport)
 
+<div style="text-align: center">
+<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/cane_toad.gif" alt="Cane toad observations"/>
+</div>
+
 ---
 ## Other research
 We are interested in other challenging methodological problems too, at the interface between statistics (and machine learning) and ecology or related disciplines.
