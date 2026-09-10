@@ -31,12 +31,6 @@ _Current projects:_
 
   <br/>
   
-<!--
-<br/>
-<div style="text-align: center">
-<img style="width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
-</div>
--->
 ---
 ## Species distribution models
 <div class="row">
@@ -50,7 +44,7 @@ _Current projects:_
 - Machine learning and species distribution modelling (Grace Davenport)
 </div>
 <div class="col-sm-4" >
-<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/cane_toad.gif" alt="Cane toad observations"/>
+<img style="width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/cane_toad.gif" alt="Cane toad observations"/>
 </div>
 </div>
 
