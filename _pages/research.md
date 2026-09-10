@@ -25,7 +25,7 @@ _Current projects:_
 - Fast algoritms for eDNA data (Charbel Sammoun)
 - Model-based approaches for phylogenetic and funcitonal diversity (Shaoqian Huang)
 - Multivariate models for point event data (Jessie Guo)
-<div>
+</div>
 <div class="col-sm-4" >
 <img style="width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
 </div>
