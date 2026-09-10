@@ -34,7 +34,7 @@ _Current projects:_
 <!--
 <br/>
 <div style="text-align: center">
-<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
+<img style="width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
 </div>
 -->
 ---
