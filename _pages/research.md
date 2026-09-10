@@ -19,16 +19,22 @@ Multivariate abundance data are abundances collected simultaneously for many tax
 
 <br/>
 
+<div class="col-sm-8">
 _Current projects:_
 - Fast algoritms for eDNA data (Charbel Sammoun)
 - Model-based approaches for phylogenetic and funcitonal diversity (Shaoqian Huang)
 - Multivariate models for point event data (Jessie Guo)
-
+<div>
+<div class="col-sm-4" >
+<img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
+</div>
+  
+<!--
 <br/>
 <div style="text-align: center">
 <img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
 </div>
-
+-->
 ---
 ## Species distribution models
 Species distribution modelling uses records of where a species is known to occur to model how it relates to a suite of environmental variables.
