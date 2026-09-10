@@ -20,6 +20,8 @@ include:
 sass:
   sass_dir: _sass
 
+keywords: "ecological statistics, statistical ecology, species distribution modeling, multivariate analysis, species distribution modelling, allometry, data science"
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
