@@ -41,9 +41,6 @@ UNSW Sydney<br></i>
 </div>
 </div>
 
-<!-- Post-docs 
-<h2 style="text-align: center; padding: 30px">Postdoctoral Associates & Fellows and Research Scientists
-</h2>
 <div class="row">
 {% for member in site.data.postdocs %}
 <div class="col-sm-4 clearfix" style="text-align: center; ">
@@ -66,7 +63,6 @@ UNSW Sydney<br></i>
 {% endfor %}
 <br>
 </div>
--->
 
 ---
 <h2 style="text-align: center; padding: 30px">Members</h2>
