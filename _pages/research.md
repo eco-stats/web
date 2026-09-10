@@ -19,6 +19,7 @@ Multivariate abundance data are abundances collected simultaneously for many tax
 
 <br/>
 
+<div class="row">
 <div class="col-sm-8">
 _Current projects:_
 - Fast algoritms for eDNA data (Charbel Sammoun)
@@ -27,6 +28,7 @@ _Current projects:_
 <div>
 <div class="col-sm-4" >
 <img style="width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/residPlot.png" alt="Residual plot"/>
+</div>
 </div>
 
   <br/>
