@@ -15,12 +15,10 @@ We're always on the lookout for new and interesting projects! As our expertise i
 
 ---
 ## Analysis of multivariate abundances 
-Multivariate abundance data are abundances collected simultaneously for many taxa (species, orders, functional groups...). This type of data is commonly collected in ecology and the environmental sciences, and has been collected and analysed in thousands of publications. There are many possibilities for significant contributions to this field, using a more rigorous model-based approach to analysis.
-
-<br/>
-
 <div class="row">
 <div class="col-sm-8">
+Multivariate abundance data are abundances collected simultaneously for many taxa (species, orders, functional groups...). This type of data is commonly collected in ecology and the environmental sciences, and has been collected and analysed in thousands of publications. There are many possibilities for significant contributions to this field, using a more rigorous model-based approach to analysis.
+
 _Current projects:_
 - Fast algoritms for eDNA data (Charbel Sammoun)
 - Model-based approaches for phylogenetic and funcitonal diversity (Shaoqian Huang)
@@ -41,6 +39,8 @@ _Current projects:_
 -->
 ---
 ## Species distribution models
+<div class="row">
+<div class="col-sm-8">
 Species distribution modelling uses records of where a species is known to occur to model how it relates to a suite of environmental variables.
 
 This may be done to better understand the ecology of the target species, to predict its response to environmental change, or to assist conservation efforts. The modelling process involves many challenging steps, and we are currently exploring the following problems:
@@ -48,9 +48,10 @@ This may be done to better understand the ecology of the target species, to pred
 _Current projects:_
 - Statistical methods to track how species distribution changes in response to climate change (Sam Mason)
 - Machine learning and species distribution modelling (Grace Davenport)
-
-<div style="text-align: center">
+</div>
+<div class="col-sm-4" >
 <img style="width: 40%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/cane_toad.gif" alt="Cane toad observations"/>
+</div>
 </div>
 
 ---
