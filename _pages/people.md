@@ -91,7 +91,7 @@ UNSW Sydney<br></i>
 <i>Graduate students, postdoctoral associates & fellows, research scientists</i>
 {% for member in site.data.alumni %}
 {% if member.link %}
-- [{{ member.name }}]({{ member.link }}) ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
+- [{{ member.name }}]({{ member.link }}){:target="_blank"} ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
 {% else %}
 - {{ member.name }} ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
 {% endif %}
