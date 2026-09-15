@@ -15,6 +15,6 @@ That's it! Go ahead and make a pull request when you are satisfied.
 
 ### Other changes
 
-The following have been set up to be similarly easy to add new content to. Hopefully it should be simple to extrapolate the editing of `.yml` files to the following, but ask Kevin or Kento if you need help.
+The following have been set up to be similarly easy to add new content to. Hopefully it should be simple to extrapolate the editing of `.yml` files to the following, but ask David if you need help.
 - News (`_data/news.yml`)
 - Group photos (`_data/photos.yml`, images go in `images/grouppic/`)
