@@ -3,13 +3,12 @@
   current: PhD @ Peking
   link: https://www.linkedin.com/in/ao-sun-538269355/?locale=en
 
-- name: Maeve McGillyCuddy
-  link: https://www.linkedin.com/in/maevemcgillycuddy/
+- name: Coralie Williams
   previous: PhD
-  current: Research Associate @ ANU
+  link: https://www.linkedin.com/in/coralie-w-54a80148/
 
 - name: Elliot Dovers
-  previous: PhD, postdoc
+  previous: PhD, Postdoc
   current: postdoc @ ANU
   link: https://www.linkedin.com/in/elliot-dovers-98a1975b/
 
@@ -19,6 +18,11 @@
 - name: Gordon Li
   previous: Hons
   link: https://www.linkedin.com/in/gordon-li-6a9b58292/
+
+- name: Maeve McGillyCuddy
+  link: https://www.linkedin.com/in/maevemcgillycuddy/
+  previous: PhD
+  current: Research Associate @ ANU
 
 - name: Victor Tsang
   previous: Hons
@@ -33,6 +37,11 @@
   current: PhD Student @ Sydney Unit
   link: https://scholar.google.com/citations?user=8pJtFZEAAAAJ&hl=en
 
+- name: Gordana Popovic
+  previous: PhD, Postdoc
+  current: Senior Statistical Consultant @ UNSW
+  link: https://www.linkedin.com/in/gordana-popovic-21b0b89a/
+  
 - name: Thomas King
   previous: MStat
   current: Data Science leader @ Canva
@@ -47,3 +56,92 @@
   previous: MStat
   current: Game Designer @ Aristocrat
   link: https://www.linkedin.com/in/christopher-chung-8a1078376/
+
+- name: Eve Slavich
+  previous: PhD
+  current: Statistical Consultant @ UNSW
+  link: https://www.linkedin.com/in/eve-slavich/
+  
+- name: Riki Herliansyah
+  previous: MStat
+  current: Lecturer @ Kalimantan Institute of Technology
+  link: https://www.linkedin.com/in/riki-herliansyah-1b522092/
+
+- name: Firouzeh Noghrehchi
+  previous: PhD
+  link: https://scholar.google.com/citations?user=DlaEVMMAAAAJ&hl=en
+  current: Biostatistician @ Sydney Uni
+
+- name: Mitchell Lyons
+  previous: Postdoc
+  link: https://www.linkedin.com/in/mitchelllyons/
+  current: Senior Research Fellow @ UNSW
+
+- name: Loic Thibaut
+  previous: Postdoc
+  link: https://www.linkedin.com/in/lo%C3%AFc-thibaut-0b747b123/
+  current: Postdoc @ UQ
+
+- name: Wesley Brooks
+  previous: Postdoc
+  link: https://scholar.google.com/citations?user=ibDGiYEAAAAJ&hl=en
+  current: Stat Consulting @ UC Davis
+
+- name: Jakub Stoklosa
+  previous: Postdoc
+  current: Senior Lecturer @ UNSW
+  link: https://www.unsw.edu.au/staff/jakub-stoklosa
+  
+- name: Francis Hui
+  previous: PhD
+  current: Associate Professor @ ANU
+  link: https://rsfas.anu.edu.au/people/francis-hui
+
+- name: Benedict Madon
+  previous: Postdoc
+  link: https://www.linkedin.com/in/benedicte-madon-414a4760/
+  current: Researcher @ Sevilla
+
+- name: Ian Renner
+  previous: PhD, Postdoc
+  current: Associate Professor @ Newcastle
+  link: https://www.linkedin.com/in/ian-renner-68860a8a/
+
+- name: Yi (Alice) Wang
+  previous: Postdoc
+  current: Professor @ Dongguan
+  link: https://dgut-alis.netlify.app/
+
+- name: Alex M. Brown
+  previous: Hons
+
+- name: Luke Wilson
+  previous: MStat
+
+- name: Stephen Wright
+  previous: RA
+  current: Senior Data Scientist @ NSW Government
+  link: https://www.linkedin.com/in/stephen-wright-number-nerd/
+
+- name: Michael McLean
+  previous: MStat
+  current: Statistician @ Finity Consulting
+  link: https://www.linkedin.com/in/michaelmclean93/
+
+- name: Ulrike Naumann
+  link: https://www.linkedin.com/in/ulrike-n-56520120/
+  previous: RA
+  current: Consultant @ IQVIA
+
+- name: Leah Shepherd
+  previous: Hons
+  current: Software Engineer @ Woolworths
+  link: https://www.linkedin.com/in/leah-shepherd-data-alchemy/
+
+- name: Lester Tsang
+  previous: MSc
+
+- name: Pon Ravjong
+  previous: MStat
+  current: Associate Director @ Macquarie Bank
+  link: https://www.linkedin.com/in/pon-rajvong-4a874548/
