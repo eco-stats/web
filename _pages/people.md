@@ -89,7 +89,7 @@ UNSW Sydney<br></i>
 </div>
 
 ---
-## Where are they now...
+## Where are they now?
 <i>Former Eco-Stats research students and postdoctoral researchers</i>
 {% for member in site.data.alumni %}
 {% if member.link %}
