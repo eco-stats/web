@@ -89,8 +89,8 @@ UNSW Sydney<br></i>
 </div>
 
 ---
-## Lab Alumni
-<i>Graduate students, postdoctoral associates & fellows, research scientists</i>
+## Where are they now...
+<i>Former Eco-Stats research students and postdoctoral researchers</i>
 {% for member in site.data.alumni %}
 {% if member.link %}
 - [{{ member.name }}]({{ member.link }}){:target="_blank"} ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
