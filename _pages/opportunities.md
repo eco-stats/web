@@ -26,3 +26,5 @@ Often predictor variables (in ecology and elsewhere) are measured with error, an
 
 #### Spatio-temporal tools for studying climate change response
 Long-term monitoring data can be used to understand how species distributions have been changing as the climate has changed. How have species been changing, and can that be linked directly to historical changes in climate? Can we use point process models, fitted to point event data, to understand how species distributions have changed over time?
+
+<br>
