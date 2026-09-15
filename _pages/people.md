@@ -98,3 +98,4 @@ UNSW Sydney<br></i>
 - {{ member.name }} ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
 {% endif %}
 {% endfor %}
+<br>
