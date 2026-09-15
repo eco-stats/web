@@ -67,7 +67,7 @@ UNSW Sydney<br></i>
 ---
 <h2 style="text-align: center; padding: 30px">Members</h2>
 <div class="row">
-{% for member in site.data.grad_students %}
+{% for member in site.data.students %}
 <div class="col-sm-4 clearfix" style="text-align: center; ">
 <div style="display: flex; justify-content: center;">
 <div class="image-cropper">
