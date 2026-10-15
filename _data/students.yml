@@ -13,3 +13,11 @@
   linkedin: 
   website: 
   description: Shaoqian Huang is a PhD student in the School of Mathematics and Statistics at UNSW Sydney. His research focuses on statistical modelling of multivariate abundance data and its applications to biodiversity quantification. He is particularly interested in developing statistical methods for analysing complex ecological data, with a focus on biodiversity, species communities, and related ecological applications. He has also worked on ecological niche modelling using probabilistic approaches.
+
+- name: Charbel Sammoun
+  photo: ARP01193 square _Charbel Sammoun.jpg
+  info: MRes Student
+  email: c.sammoun@student.unsw.edu.au
+  linkedin: 
+  website: https://github.com/csamHUB
+  description: Charbel Sammoun is a Master of Research student in Statistics at UNSW Sydney. His research focuses on developing computationally efficient statistical methods for analysing high-dimensional ecological data, particularly through generalized linear latent variable models (GLLVMs). He is particularly interested in latent variable modelling and computational approaches to multivariate species abundance data. His research investigates the computational efficiency and statistical performance of alternative estimation methods for GLLVMs, with applications to species community analysis and environmental DNA (eDNA) data.
