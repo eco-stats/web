@@ -6,7 +6,7 @@ This is the repo for the website of the Eco-Stats Research group at UNSW. It is 
 
 Adding yourself to the People page is very simple!
 1. Upload an image of yourself to `images/teampic/` with the format `{firstname}_{lastname}.[png|jpg|jpeg]`. **Please crop your image to a square**.
-2. Navigate to the `_data/` folder and locate the `.yml` file that matches your position in the group (for instance, if you are a grad student, open `grad_students.yml`). 
+2. Navigate to the `_data/` folder and locate the `.yml` file that matches your position in the group (for instance, if you are a student, open `students.yml`). 
 3. Add all relevant information in the `.yml` file. 
     - Fill out `name` and `email` at minimum, with optional URLs provided in `linkedin`, and/or `website` fields.
     - Add a short biography for the `description` field.
